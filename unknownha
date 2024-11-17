@@ -1,4 +1,3 @@
--- nury
 local RobloxReplicatedStorage = cloneref(game:GetService('RobloxReplicatedStorage'))
 local RbxAnalyticsService = cloneref(game:GetService('RbxAnalyticsService'))
 local ReplicatedStorage = cloneref(game:GetService('ReplicatedStorage'))
